@@ -1,0 +1,43 @@
+Section,Course,Period,Room,Teacher
+Algebra II_Sec1,Algebra II,2,Room A,Mr. Smithy
+Algebra II_Sec2,Algebra II,3,Room A,Mr. Brown
+Algebra II_Sec3,Algebra II,2,Room A,Mr. Brown
+Geometry_Sec1,Geometry,2,Room A,Ms. Jones
+Geometry_Sec2,Geometry,1,Room A,Ms. Johnson
+Geometry_Sec3,Geometry,3,Room A,Ms. Jones
+Biology_Sec1,Biology,4,Room A,Ms. Jones
+Biology_Sec2,Biology,3,Room A,Ms. Jones
+Biology_Sec3,Biology,2,Room A,Study Hall
+Biology_Sec4,Biology,4,Room A,Mr. Smithy
+Chemistry_Sec1,Chemistry,2,Room A,Mr. Smith
+Chemistry_Sec2,Chemistry,2,Room A,Ms. Johnson
+World History_Sec1,World History,8,Room A,Study Hall
+World History_Sec2,World History,3,Room A,Mrs. Lee
+US History_Sec1,US History,2,Room A,Ms. Johnson
+US History_Sec2,US History,8,Room A,Study Hall
+English 12_Sec1,English 12,6,Room A,Mr. Smithy
+English 12_Sec2,English 12,5,Room A,Study Hall
+English 11_Sec1,English 11,6,Room A,Study Hall
+English 11_Sec2,English 11,6,Room A,Mrs. Lee
+English 10_Sec1,English 10,8,Room A,Study Hall
+English 10_Sec2,English 10,1,Room A,Mr. Smith
+Bible A_Sec1,Bible A,8,Room A,Mr. Brown
+Bible A_Sec2,Bible A,6,Room A,Ms. Jones
+Bible A_Sec3,Bible A,1,Room A,Ms. Jones
+Bible A_Sec4,Bible A,1,Room A,Mr. Smith
+Bible B_Sec1,Bible B,4,Room A,Ms. Johnson
+Bible B_Sec2,Bible B,5,Room A,Mrs. Lee
+Bible B_Sec3,Bible B,1,Room A,Ms. Johnson
+Bible B_Sec4,Bible B,4,Room A,Mr. Smith
+Art_Sec1,Art,7,Room A,Mr. Smithy
+Art_Sec2,Art,2,Room A,Mr. Smithy
+Art_Sec3,Art,5,Room A,Mr. Brown
+Art_Sec4,Art,3,Room A,Mr. Smithy
+PE_Sec1,PE,7,Room A,Mrs. Lee
+PE_Sec2,PE,1,Room A,Mrs. Lee
+PE_Sec3,PE,7,Room A,Ms. Johnson
+PE_Sec4,PE,5,Room A,Mr. Brown
+Study Hall_Sec1,Study Hall,1,Room A,Mr. Smith
+Study Hall_Sec2,Study Hall,1,Room A,Mr. Smith
+Study Hall_Sec3,Study Hall,1,Room A,Mr. Brown
+Study Hall_Sec4,Study Hall,1,Room A,Mrs. Lee

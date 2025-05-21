@@ -1,0 +1,11 @@
+name,grade,required_courses,elective_choices,bible_choices
+Alice,12,Algebra II;English 12;Biology;US History,Art;PE,Bible A;Bible B
+Bob,12,Geometry;English 12;Chemistry;World History,PE;Art,Bible B;Bible A
+Charlie,11,Geometry;English 11;Biology;US History,Art;PE,Bible A;Bible B
+Diana,11,Algebra II;English 11;Chemistry;World History,PE;Art,Bible B;Bible A
+Ethan,10,Algebra II;English 10;Biology;US History,Art;PE,Bible A;Bible B
+Fiona,10,Geometry;English 10;Chemistry;World History,PE;Art,Bible B;Bible A
+George,9,Algebra II;English 10;Biology;US History,Art;PE,Bible A;Bible B
+Hannah,9,Geometry;English 10;Biology;World History,PE;Art,Bible B;Bible A
+Ian,12,Algebra II;English 12;Biology;US History,Art;PE,Bible A;Bible B
+Jane,11,Geometry;English 11;Biology;World History,PE;Art,Bible B;Bible A
