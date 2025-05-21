@@ -1,6 +1,0 @@
-name,courses,availability,required_off_periods,preferred_room
-Mr. Smith,"Math,Science","1,2,3,4",1,Room 101
-Ms. Johnson,"English,History","2,3,4",1,Room 102
-Mr. Lee,"Math,Science","1,3",2,Room 103
-Ms. Davis,"Science,History","1,2,3",1,
-Mr. Brown,"History,English","1,4",2,Room 104
